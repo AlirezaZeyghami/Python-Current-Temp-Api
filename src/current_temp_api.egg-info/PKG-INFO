@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: current_temp_api
+Version: 0.0.0
+Summary: A simple client api module to get current tempereture from sevice providers
+Home-page: https://github.com/AlirezaZeyghami/Python-Current-Temp-Api
+Author: Alireza Zeyghami
+Author-email: alireza.zeighami@gmail.com
+Project-URL: Bug Tracker, package issues URL
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
