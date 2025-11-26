@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="current_temp_api",
-    versio="0.0.1",
+    version="0.0.1",
     author="Alireza Zeyghami",
     author_email="alireza.zeighami@gmail.com",
     description="A simple client api module to get current tempereture from sevice providers",
